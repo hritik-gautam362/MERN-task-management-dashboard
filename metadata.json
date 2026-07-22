@@ -1,0 +1,6 @@
+{
+  "name": "Task Management Dashboard",
+  "description": "A full-stack MERN Task Management Dashboard featuring JWT Authentication, CRUD operations, priority & status filtering, search, user profiles, and responsive UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
